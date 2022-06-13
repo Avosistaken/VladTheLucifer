@@ -4,7 +4,7 @@
 ## Sonya's Github
 
 ```css
-Hello my name is Sonya
+Hello my name is Rüya ^^
 ```
  
 **Skills:**  
