@@ -16,10 +16,10 @@ Hello my name is Sonya
 
 
 <a href="https://github.com/sonyabutdev">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=drappergithub&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=drappergithub&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Sonya's Github Stats" />
 </a>
 <a href="https://instagram.com/ruyagoruyorumsanki/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=drappergithub&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sonyabutdev&layout=compact&theme=material-palenight" />
 </a> 
 
