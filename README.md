@@ -1,7 +1,7 @@
 ![](https://cdn.discordapp.com/attachments/769531308769804318/812630322599559198/github2.png)
 
 
-## Sonya's Github
+## Sylwia's Github
 
 ```css
 Hello my name is Rüya ^^
@@ -16,11 +16,11 @@ Hello my name is Rüya ^^
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code> **Lua**<br>
 
 
-<a href="https://github.com/sonyabutdev">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sonyabutdev&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Sonya's Github Stats" />
+<a href="https://github.com/SylwiaTheDev">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SylwiaTheDev&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Sylwia's Github Stats" />
 </a>
 <a href="https://instagram.com/ruyagoruyorumsanki/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sonyabutdev&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SylwiaTheDev&layout=compact&theme=material-palenight" />
 </a> 
 
