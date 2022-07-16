@@ -4,7 +4,7 @@
 ## VLAD's Github
 
 ```css
-Hello my name is Rüya ^^
+Hello my name is Şafak ^^
 ```
  
 **Skills:**  
