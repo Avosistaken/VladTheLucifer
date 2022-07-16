@@ -1,7 +1,7 @@
 ![](https://cdn.discordapp.com/attachments/769531308769804318/812630322599559198/github2.png)
 
 
-## Sylwia's Github
+## VLAD's Github
 
 ```css
 Hello my name is Rüya ^^
