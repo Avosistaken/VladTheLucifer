@@ -17,10 +17,10 @@ Hello my name is Şafak ^^
 
 
 <a href="https://github.com/SylwiaTheDev">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SylwiaTheDev&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Sylwia's Github Stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=vladTheDev&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Sylwia's Github Stats" />
 </a>
 <a href="https://instagram.com/ruyagoruyorumsanki/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SylwiaTheDev&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=vladtheDev&layout=compact&theme=material-palenight" />
 </a> 
 
