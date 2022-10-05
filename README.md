@@ -1,7 +1,7 @@
 ![](https://cdn.discordapp.com/attachments/769531308769804318/812630322599559198/github2.png)
 
 
-## Vlad's Github
+## Shini's Github
 
 ```css
 Hello my name is Şafak ^^
@@ -16,11 +16,11 @@ Hello my name is Şafak ^^
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code> **Lua**<br>
 
 
-<a href="https://github.com/VladTheLucifer">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=VladTheLucifer&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Sylwia's Github Stats" />
+<a href="https://github.com/ShiniTheDev">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ShiniTheDev&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Shini's Github Stats" />
 </a>
-<a href="https://instagram.com/justsayvlad/">
+<a href="https://instagram.com/justsayshini/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=VladTheLucifer&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ShiniTheDevr&layout=compact&theme=material-palenight" />
 </a> 
 
